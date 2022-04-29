@@ -2,6 +2,8 @@
 
 Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
 
+
+
 ## Plan
 
 ### Learning Objectives
