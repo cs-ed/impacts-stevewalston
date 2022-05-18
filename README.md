@@ -49,6 +49,7 @@ Step 1
     * A method to increase inclusion rates of Native students
     * A method to increase inclusion rates of students from Rural locales
     * An advertisement that highlights the contributions in computing by diverse groups/persons
+  * At the completion of the "product" creation,
 
 ### Assessment
 
