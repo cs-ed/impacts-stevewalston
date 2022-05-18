@@ -17,7 +17,7 @@ Primarily focusing on Inclusion within Computing, students will gain an understa
 
 #### Investigation 1
  
-"Question to Ponder": When thinking about people working in computing and technology jobs, who do you think of?
+Question to Ponder: "When thinking about people working in computing and technology jobs, who do you think of?"
 
 Step 1  
   * Students are provided with the question prompt and will write a response on a provided page.  As needed, students may be given assistance by suggesting that they describe people working in computing and tech by:
@@ -47,6 +47,8 @@ Describe how you plan to assess the learning objectives described above.
 
 ### Learning Objectives
 
+Primarily focusing on Positive and Negative Impacts of Computing, students will gain an understanding of these impacts and effects by XXXXX recent news pieces.  Specifially, students will examine:
+  * 
 
 ### Learning Activities
 
