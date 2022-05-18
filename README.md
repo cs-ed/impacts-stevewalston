@@ -10,8 +10,8 @@ This educational plan is a stand-alone unit to be incorporated into a high schoo
 
 Primarily focusing on Inclusion within Computing, students will gain an understanding of these influences by discussing, questioning, critiquing and evaluating information and data.  Specifically, students will examine:
   * Diversity in Computing
-  * Effects of Diversity or lack thereof
-  * Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+  * The Benefits of Diversity
+  * Broadening Participation
 
 ### Learning Activities
 
