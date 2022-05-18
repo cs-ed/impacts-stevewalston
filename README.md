@@ -11,11 +11,26 @@ This educational plan is a stand-alone unit to be incorporated into a high schoo
 Primarily focusing on Inclusion within Computing, students will gain an understanding of these influences by discussing, questioning, critiquing and evaluating information and data.  Specifically, students will examine:
   * Diversity in Computing
   * The Benefits of Diversity
-  * Broadening Participation
+  * Methods of Broadening Participation
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+#### Investigation 1
+
+Step 1  
+"Question to Ponder": When thinking about people working in computing and technology jobs, who do you think of?
+
+  * Students are provided with the question prompt and will write a response on a provided page.  As needed, students may be given assistance by suggesting that they describe people working in computing and tech by:
+    * what they look like - their likely ethnicity, gender, etc.
+    * what their likely educational background is
+    * 
+  * Students either share their repsone with the class or if the teacher thinks that anonymity is more appropriate given the classroom and/or school culture, then the responses will be collected with the teacher sharing them.
+  * Students discuss similarities and differences in the responses and identify common themes or trends.
+
+Step 2  
+Students are given the article XXXXX and are asked to silently read it
+
+  * Students are then presented with 
 
 ### Assessment
 
