@@ -8,10 +8,12 @@ This educational plan is a stand-alone unit to be incorporated into a high schoo
 
 ### Learning Objectives
 
-Primarily focusing on Inclusion within Computing, students will gain an understanding of these influences by discussing, questioning, critiquing and evaluating information and data.  Specifically, students will examine:
+Primarily focusing on Inclusion within Computing, students will gain an understanding of how different societal influences/actions affect inclusion.  Students will gain the perspective to identify and address inclusion by discussing, questioning, comparing, critiquing information and data.  Specifically, students will examine:
   * Diversity in Computing
   * The Benefits of Diversity
-  * Methods of Broadening Participation
+  * Methods of Broadening Participation  
+
+As a result of these examinations, students will suggest/create methods to address inclusion.
 
 ### Learning Activities
 
@@ -23,38 +25,45 @@ Step 1
   * Students are provided with the question prompt and will write a response on a provided page.  As needed, students may be given assistance by suggesting that they describe people working in computing and tech by:
     * what they look like - their likely ethnicity, gender, etc.
     * what their likely educational background is
-    * 
-  * Students either share their repsone with the class or if the teacher thinks that anonymity is more appropriate given the classroom and/or school culture, then the responses will be collected with the teacher sharing them.
-  * Students discuss similarities and differences in the responses and identify common themes or trends.
+  * Students either share their repsone with the class or if the teacher thinks that anonymity is more appropriate given the classroom and/or school culture, then the responses will be collected with the teacher sharing them.  Writing/organizing the responses on a whiteboard or projected screen will be beneficial for analysis by students.
+  * As a class, students discuss similarities and differences in the responses and identify common themes and/or trends.
 
 Step 2  
-Students are given the article XXXXX and are asked to silently read it
+Students are given the article XXXXX and are asked to read it.
 
-  * Students are provided with the question prompt, "How accurate were your individual and the class descriptions of people working in computing and technology?" and are given time to write a response.
-  * As a follow-up, students can be asked to share their responses to the question prompt, "What are any surprises from or what is anything new you gained from the article?"
-
-Step 3  
-Students
+  * After the reading is finished, students are provided with the question prompt, "How accurate were both your individual and the class descriptions of people working in computing and technology?".  Students are given time to write a response on a provided page.
+  * As a follow-up, students can be asked or volunteer to share their responses to the question prompt, "What are any surprises from, or what is anything new you gained from the article?"
+  * Students are given time to record these surprises on the page provided earlier.
 
 #### Investigation 2
 
-Step 1  
+Question to Ponder: "How can a lack of inclusion/diversity in computing be addressed?"
 
+Step 1  
+  * Students select one category from a list such as:
+    * Educational Policies
+    * Advertising Campaign
+    * Outreach Project
+    * (Other)  
+  * Students can work in pairs, or individually if necessary, to create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, advertisement, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue such as focusing on:
+    * A method to increase inclusion rates of Native students
+    * A method to increase inclusion rates of students from Rural locales
+    * An advertisement that highlights the contributions in computing by diverse groups/persons
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
+Assessment will be accomplished through two methods.  The first is the collection, review and return of the students' response pages.  The second is the creation and sharing of the "product" that students created to address inclusion.  The expectation is that through the actions and activities of these investigations, students will fulfill the learning objectives.
 
 
 ## The Plan, Part 2: The Positive and Negative Impacts of Computing
 
 ### Learning Objectives
 
-Primarily focusing on Positive and Negative Impacts of Computing, students will gain an understanding of these impacts and effects by XXXXX recent news pieces.  Specifially, students will examine:
-  * Examples of Hurtful/Negative Effects that are results of Computing
-  * Examples of Helpful/Positive Effects that are results of Computing  
+Primarily focusing on Positive and Negative Impacts of Computing, students will gain an understanding of these impacts and effects by examining, discussing and evaluating recent news pieces.  Specifially, students will examine:
+  * Examples of Hurtful/Negative Effects that are results of computing
+  * Examples of Helpful/Positive Effects that are results of computing  
 
-Through these examinations, students will be better equiped to identify and understand impacts of computing in the future
+As a result of these examinations, students will be better prepared to be proactive in regards to the role they have in addressing/preventing negative impacts of computing in the future.
 
 ### Learning Activities
 
