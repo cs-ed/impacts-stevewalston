@@ -1,6 +1,6 @@
-# Impacts on Society
+# The Influences and Impacts of Computing and Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+This educational plan is a stand-alone unit to be incorporated into a high school computer science course.  The course, Computer Science, is a year-long course for students in grades 10 through 12.  Computer Science meets the current California Computer Science Standards with the major topics of: Digital Citizenship, Cryptography & Encryption, Networks & the Internet, and Programming.  This unit is best placed early in the course.  Students will benefit by having a common lens with which to approach and analyze later topics.  There is, however, flexibility with the sequencing of this unit as no other topics rely on the content as prior knowledge.  The goal of this plan is to provide a structured outline and resources that other educators may use in the high school setting.
 
 
 
