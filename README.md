@@ -16,10 +16,10 @@ Primarily focusing on Inclusion within Computing, students will gain an understa
 ### Learning Activities
 
 #### Investigation 1
-
-Step 1  
+ 
 "Question to Ponder": When thinking about people working in computing and technology jobs, who do you think of?
 
+Step 1  
   * Students are provided with the question prompt and will write a response on a provided page.  As needed, students may be given assistance by suggesting that they describe people working in computing and tech by:
     * what they look like - their likely ethnicity, gender, etc.
     * what their likely educational background is
@@ -30,7 +30,13 @@ Step 1
 Step 2  
 Students are given the article XXXXX and are asked to silently read it
 
-  * Students are then presented with 
+  * Students are provided with the question prompt, "How accurate were your individual, as well as the class, descriptions of people working in computing and technology?" and are given time to write a response.
+  * As a follow-up, students can be asked to share their responses to the question prompt, "What are any surprises from or what is anything new you gained from the article?"
+
+#### Investigation 2
+
+Step 1  
+
 
 ### Assessment
 
@@ -42,3 +48,18 @@ Describe how your plan will facilitate diversity/equity/inclusion and help broad
 
 
 ## The Plan, Part 2: The Positive and Negative Impacts of Computing
+
+### Learning Objectives
+
+
+### Learning Activities
+
+#### Investigation 1
+
+Step 1  
+
+
+### Assessment
+
+### Outcomes
+
