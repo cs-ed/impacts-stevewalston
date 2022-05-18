@@ -30,8 +30,11 @@ Step 1
 Step 2  
 Students are given the article XXXXX and are asked to silently read it
 
-  * Students are provided with the question prompt, "How accurate were your individual, as well as the class, descriptions of people working in computing and technology?" and are given time to write a response.
+  * Students are provided with the question prompt, "How accurate were your individual and the class descriptions of people working in computing and technology?" and are given time to write a response.
   * As a follow-up, students can be asked to share their responses to the question prompt, "What are any surprises from or what is anything new you gained from the article?"
+
+Step 3  
+Students
 
 #### Investigation 2
 
@@ -48,7 +51,10 @@ Describe how you plan to assess the learning objectives described above.
 ### Learning Objectives
 
 Primarily focusing on Positive and Negative Impacts of Computing, students will gain an understanding of these impacts and effects by XXXXX recent news pieces.  Specifially, students will examine:
-  * 
+  * Examples of Hurtful/Negative Effects that are results of Computing
+  * Examples of Helpful/Positive Effects that are results of Computing  
+
+Through these examinations, students will be better equiped to identify and understand impacts of computing in the future
 
 ### Learning Activities
 
