@@ -31,9 +31,10 @@ Step 1
 Step 2  
   * Students are asked to read the articles:
     * [Women and Minorities in Tech, By the Numbers](https://www.wired.com/story/computer-science-graduates-diversity/)
-    * 
+    * [Why is Computer Science Unpopular Among Women?](https://today.ttu.edu/posts/2021/09/Stories/why-is-computer-science-unpopular-among-women)
+    * [Black, Latino People Are Being Left Out of the Tech Workforce](https://www.govtech.com/workforce/black-latino-people-are-being-left-out-of-the-tech-workforce.html)
   * After the readings are finished, students are provided with the question prompt, "How accurate were both your individual and the class descriptions of people working in computing and technology?".  Students are given time to write a response on a provided page.
-  * As a follow-up, students can be asked or volunteer to share their responses to the question prompt, "What are any surprises from, or what is anything new you gained from the article?"
+  * As a follow-up, students can be asked or volunteer to share their responses to the question prompt, "What are any surprises from, or what is anything new you gained from the articles?"
   * Students are given time to record their take-aways on the page provided earlier.
 
 #### Investigation 2
@@ -41,12 +42,12 @@ Step 2
 Question to Ponder: "What are the impacts of a lack of inclusion/diversity in computing ... or any field for that matter?"
 
 Step 1  
-  * Students read or watch:
+  * Students read:
     * [Why does diversity and inclusion matter in tech?](https://cecs.anu.edu.au/about/diversity-engineering-computer-science/diversity-inclusion-blogs/why-does-diversity-and)
     * [Why Creating a Diverse Workforce Matters](https://uncf.org/the-latest/why-creating-a-diverse-workforce-matters)
     * [Why Workplace Diversity Matters](https://aofund.org/resource/why-workplace-diversity-matters/)
+  * As a class, students share their reactions to the readings.
  
-
 
 #### Investigation 3
 
