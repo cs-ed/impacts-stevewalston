@@ -42,10 +42,10 @@ Question to Ponder: "What are the impacts of a lack of inclusion/diversity in co
 
 Step 1  
   * Students read or watch:
-    * [something](https://cecs.anu.edu.au/about/diversity-engineering-computer-science/diversity-inclusion-blogs/why-does-diversity-and)
-    * [the title of this is](https://uncf.org/the-latest/why-creating-a-diverse-workforce-matters)
-    * [another title](https://aofund.org/resource/why-workplace-diversity-matters/)
-    * 
+    * [Why does diversity and inclusion matter in tech?](https://cecs.anu.edu.au/about/diversity-engineering-computer-science/diversity-inclusion-blogs/why-does-diversity-and)
+    * [Why Creating a Diverse Workforce Matters](https://uncf.org/the-latest/why-creating-a-diverse-workforce-matters)
+    * [Why Workplace Diversity Matters](https://aofund.org/resource/why-workplace-diversity-matters/)
+ 
 
 
 #### Investigation 3
