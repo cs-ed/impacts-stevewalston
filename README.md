@@ -29,10 +29,12 @@ Step 1
   * As a class, students discuss similarities and differences in the responses and identify common themes and/or trends.
 
 Step 2  
-  * Students are asked to read the article [Women and Minorities in Tech, By the Numbers](https://www.wired.com/story/computer-science-graduates-diversity/)
-  * After the reading is finished, students are provided with the question prompt, "How accurate were both your individual and the class descriptions of people working in computing and technology?".  Students are given time to write a response on a provided page.
+  * Students are asked to read the articles:
+    * [Women and Minorities in Tech, By the Numbers](https://www.wired.com/story/computer-science-graduates-diversity/)
+    * 
+  * After the readings are finished, students are provided with the question prompt, "How accurate were both your individual and the class descriptions of people working in computing and technology?".  Students are given time to write a response on a provided page.
   * As a follow-up, students can be asked or volunteer to share their responses to the question prompt, "What are any surprises from, or what is anything new you gained from the article?"
-  * Students are given time to record these surprises on the page provided earlier.
+  * Students are given time to record their take-aways on the page provided earlier.
 
 #### Investigation 2
 
@@ -40,7 +42,7 @@ Question to Ponder: "What are the impacts of a lack of inclusion/diversity in co
 
 Step 1  
   * Students read or watch:
-    * 
+    * [something](https://cecs.anu.edu.au/about/diversity-engineering-computer-science/diversity-inclusion-blogs/why-does-diversity-and)
     * [the title of this is](https://uncf.org/the-latest/why-creating-a-diverse-workforce-matters)
     * [another title](https://aofund.org/resource/why-workplace-diversity-matters/)
     * 
