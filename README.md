@@ -75,10 +75,10 @@ Assessment will be accomplished through two methods.  The first is the collectio
 ### Learning Objectives
 
 Primarily focusing on Positive and Negative Impacts of Computing, students will gain an understanding of these impacts and effects by examining, discussing and evaluating recent news pieces.  Specifially, students will examine:
-  * Examples of Hurtful/Negative Effects that are results of computing
-  * Examples of Helpful/Positive Effects that are results of computing  
+  * Examples of Negative/Harmful Effects that are results of computing
+  * Examples of Positive/Helpful Effects that are results of computing  
 
-As a result of these examinations, students will be informed and better prepared to be proactive in addressing/preventing negative impacts of computing in their futures.
+As a result of these examinations, students will be informed and better prepared to be proactive in anticipating, addressing and preventing negative impacts of computing in their futures.
 
 ### Learning Activities
 
@@ -99,8 +99,7 @@ Exploration: The harmful impacts of computing
     * [Technology Overuse and the Fear of "Digital Dementia": What You Need to Know](https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste)
     * [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
     * [How Technology is Warping Your Memory](https://www.huffpost.com/entry/technology-changes-memory_n_4414778)
-    * 
-  * For each article read, students will record their response primarily focusing on:
+  * For each article read, students will record their response, in the style modeled by the teacher, primarily focusing on:
     * What the impact was
     * What led to the impact
     * What could have been done to prevent the impact
@@ -109,10 +108,22 @@ Exploration: The harmful impacts of computing
 
 Exploration: The helpful impacts of computing
 
-
+  * Similar to the beginning of Investigation 1, all students will read the same article selected by the teacher.  When the reading is completed, the teacher will lead/encourage a class discussion as to what the helpful impact was.  The teacher can then model what a written response could look like.
+  * Students will then be assigned a few of these articles to read:
+    * [The Exponential Power of Computer Science](https://www.mccormick.northwestern.edu/magazine/fall-2016/the-exponential-power-of-computer-science.html)
+    * [Stanford students put computer science skills to social good](https://news.stanford.edu/2015/11/19/cs-for-good-111915/)
+    * [Students take computing beyond the classroom for social good](https://www.princeton.edu/news/2021/03/25/students-take-computing-beyond-classroom-social-good)
+    * [La Vida Robot](https://www.wired.com/2005/04/la-vida-robot/)
+    * [How coding has changed the world for the better](https://www.idtech.com/blog/how-coding-can-change-the-world)
+    * [DeepMind Has Trained an AI to Control Nuclear Fusion](https://www.wired.com/story/deepmind-ai-nuclear-fusion/)
+    * [How AI Could Help Screen for Autism in Children](https://viterbischool.usc.edu/news/2021/11/how-ai-could-help-screen-for-autism-in-children/)
+    * [Top 7 ways how Computer Science & Engineering benefits the society](https://blog.spsu.ac.in/top-7-ways-how-computer-science-engineering-benefits-the-society/)
+    * [The Human Face of Big Data | The Smallest Heartbeat](https://ca.pbslearningmedia.org/resource/bigdata_stem_babies_health/the-human-face-of-big-data-the-smallest-heartbeat/)
+    * [Combining Computer Science and Medicine](https://www.usnews.com/education/blogs/medical-school-admissions-doctor/articles/ways-premeds-combine-computer-science-and-medicine)
 
 ### Assessment
 
+Assessment will be accomplished through the collection, review and return of the students' response pages.  The expectation is that through the successful completion of the actions of these explorations, students will fulfill the learning objectives.
 
 ## Outcomes
 
