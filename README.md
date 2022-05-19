@@ -56,14 +56,14 @@ Question to Ponder: "How can a lack of inclusion/diversity in computing be addre
 
   * Building upon the reading and take-away(s) in Investigation 2 and the information in Investigation 1, students select one category from a list such as:
     * Educational Policies
-    * Advertising Campaign
-    * Outreach Project
+    * Advertising Campaigns
+    * Outreach Projects
     * (Other ?)  
   * Students working in pairs, or individually if necessary, will create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, advertisement, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue such as focusing on:
     * A method to increase inclusion rates of Native students
     * A method to increase inclusion rates of students from Rural locales
     * An advertisement that highlights the contributions in computing by one or more diverse groups
-  * At the completion of the "product" creation, students will share with the class.
+  * At the completion of the "product" creation, students will share what they have created with the class.
 
 ### Assessment
 
@@ -78,13 +78,18 @@ Primarily focusing on Positive and Negative Impacts of Computing, students will 
   * Examples of Hurtful/Negative Effects that are results of computing
   * Examples of Helpful/Positive Effects that are results of computing  
 
-As a result of these examinations, students will be better prepared to be proactive in regards to the role they have in addressing/preventing negative impacts of computing in the future.
+As a result of these examinations, students will be better prepared to be proactive in addressing/preventing negative impacts of computing in their futures.
 
 ### Learning Activities
 
 #### Investigation 1
 
-Step 1  
+Exploration: The harmful impacts of computing
+
+  * Students will be assigned a few of these articles to read:
+    * article 1
+    * article 2
+  * for each article read, students will talk about what the impact was, why it happened, what could have been done better and what more could have been done to prevent the harmful impact
 
 
 ### Assessment
