@@ -78,7 +78,7 @@ Primarily focusing on Positive and Negative Impacts of Computing, students will 
   * Examples of Hurtful/Negative Effects that are results of computing
   * Examples of Helpful/Positive Effects that are results of computing  
 
-As a result of these examinations, students will be better prepared to be proactive in addressing/preventing negative impacts of computing in their futures.
+As a result of these examinations, students will be informed and better prepared to be proactive in addressing/preventing negative impacts of computing in their futures.
 
 ### Learning Activities
 
@@ -86,10 +86,19 @@ As a result of these examinations, students will be better prepared to be proact
 
 Exploration: The harmful impacts of computing
 
-  * Students will be assigned a few of these articles to read:
+  * To begin the exploration, all students will read the same article selected by the teacher.  When the reading is completed, the teacher will lead/encourage a class discussion as to what the harmful impact was.  The teacher can then model what a written response could look like.
+  * Students will then be assigned a few of these articles to read:
     * article 1
     * article 2
-  * for each article read, students will talk about what the impact was, why it happened, what could have been done better and what more could have been done to prevent the harmful impact
+  * For each article read, students will record their response primarily focusing on:
+    * What the impact was
+    * What led to the impact
+    * What could have been done to prevent the impact
+
+#### Investigation 2
+
+Exploration: The helpful impacts of computing
+
 
 
 ### Assessment
