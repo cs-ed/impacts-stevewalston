@@ -1,6 +1,6 @@
 # The Influences and Impacts of Computing and Society
 
-This educational plan is a stand-alone unit to be incorporated into a high school computer science course.  The course, Computer Science, is a year-long course for students in grades 10 through 12.  Computer Science meets the current California Computer Science Standards with the major topics of: Digital Citizenship, Cryptography & Encryption, Networks & the Internet, and Programming.  This unit is best placed early in the course as students will benefit by having a common lens with which to approach and analyze later topics.  There is, however, flexibility with the sequencing of this unit as no other topics directly rely on the content as prior knowledge.  The goal of this plan is to provide a structured outline and resources that other educators may use in the high school setting.
+This educational plan is a stand-alone unit to be incorporated into a high school computer science course.  The course, Computer Science, is a year-long course for students in grades 10 through 12.  Computer Science meets the current California Computer Science Standards with the major topics of: Digital Citizenship, Cryptography & Encryption, Networks & the Internet, and Programming.  This unit is best placed early in the course as students will benefit by having a common lens with which to approach and analyze later topics.  There is, however, flexibility with the sequencing of this unit as no other topics directly rely on the content as prior knowledge.  The goal of this plan is to provide a structured outline and digital resources that other educators may use in the high school setting.
 
 
 
@@ -29,13 +29,22 @@ Step 1
   * As a class, students discuss similarities and differences in the responses and identify common themes and/or trends.
 
 Step 2  
-Students are given the article XXXXX and are asked to read it.
-
+  * Students are asked to read the article [Women and Minorities in Tech, By the Numbers](https://www.wired.com/story/computer-science-graduates-diversity/)
   * After the reading is finished, students are provided with the question prompt, "How accurate were both your individual and the class descriptions of people working in computing and technology?".  Students are given time to write a response on a provided page.
   * As a follow-up, students can be asked or volunteer to share their responses to the question prompt, "What are any surprises from, or what is anything new you gained from the article?"
   * Students are given time to record these surprises on the page provided earlier.
 
 #### Investigation 2
+
+Question to Ponder: "What are the impacts of a lack of inclusion/diversity in computing ... or any field for that matter?"
+
+Step 1  
+  * Students read/watch 
+
+
+
+
+#### Investigation 3
 
 Question to Ponder: "How can a lack of inclusion/diversity in computing be addressed?"
 
