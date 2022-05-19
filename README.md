@@ -72,13 +72,15 @@ Assessment will be accomplished through two methods.  The first is the collectio
 
 ## The Plan, Part 2: The Positive and Negative Impacts of Computing
 
-### Learning Objectives
+### Learning Objectives and Acknowlements
 
 Primarily focusing on Positive and Negative Impacts of Computing, students will gain an understanding of these impacts and effects by examining, discussing and evaluating recent news pieces.  Specifially, students will examine:
   * Examples of Negative/Harmful Effects that are results of computing
   * Examples of Positive/Helpful Effects that are results of computing  
 
-As a result of these examinations, students will be informed and better prepared to be proactive in anticipating, addressing and preventing negative impacts of computing in their futures.
+As a result of these examinations, students will be informed and better prepared to be proactive in anticipating, addressing and preventing negative impacts of computing in their futures.  
+
+I would like to acknowledge my fellow students in the CSU Chico, Spring 2022 CSED 511 course for sharing the articles included in these explorations.  Identifying age-appropriate materials and offering their rationale for the choices is a time-consuming task and I am grateful for their energies and thoughtfulness.
 
 ### Learning Activities
 
@@ -130,7 +132,7 @@ Exploration: The helpful impacts of computing
 
 ### Assessment
 
-The primary assessment will be accomplished through the collection, review and return of the students' response pages.  The expectation is that through the successful completion of the actions of these explorations, students will fulfill the learning objectives. An extenstion to these explorations, and a second assessment of student understanding, is to have each student find an addtional example of both harmful and helpful impacts.  Students will submit the titles of the articles, the urls, and their responses to the same prompts as in both explorations.
+The primary assessment will be accomplished through the collection, review and return of the students' response pages.  The expectation is that through the successful completion of the actions of these explorations, students will fulfill the learning objectives. An extenstion to these explorations, and a second assessment of student understanding, is to have each student find an addtional example of both harmful and helpful impacts.  Students will submit the titles of the articles, the urls, and their responses to the same prompts as done in both of the explorations.
 
 
 ## Outcomes
