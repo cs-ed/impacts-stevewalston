@@ -39,8 +39,10 @@ Step 2
 Question to Ponder: "What are the impacts of a lack of inclusion/diversity in computing ... or any field for that matter?"
 
 Step 1  
-  * Students read/watch
+  * Students read or watch:
+    * 
     * [the title of this is](https://uncf.org/the-latest/why-creating-a-diverse-workforce-matters)
+    * [another title](https://aofund.org/resource/why-workplace-diversity-matters/)
     * 
 
 
@@ -49,12 +51,12 @@ Step 1
 Question to Ponder: "How can a lack of inclusion/diversity in computing be addressed?"
 
 Step 1  
-  * Students select one category from a list such as:
+  * Building upon the information in Investigation 2, students select one category from a list such as:
     * Educational Policies
     * Advertising Campaign
     * Outreach Project
     * (Other)  
-  * Students can work in pairs, or individually if necessary, to create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, advertisement, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue such as focusing on:
+  * Students working in pairs, or individually if necessary, to create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, advertisement, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue such as focusing on:
     * A method to increase inclusion rates of Native students
     * A method to increase inclusion rates of students from Rural locales
     * An advertisement that highlights the contributions in computing by diverse groups/persons
