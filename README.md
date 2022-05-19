@@ -41,29 +41,28 @@ Step 2
 
 Question to Ponder: "What are the impacts of a lack of inclusion/diversity in computing ... or any field for that matter?"
 
-Step 1  
   * Students read:
     * [Why does diversity and inclusion matter in tech?](https://cecs.anu.edu.au/about/diversity-engineering-computer-science/diversity-inclusion-blogs/why-does-diversity-and)
     * [Why Creating a Diverse Workforce Matters](https://uncf.org/the-latest/why-creating-a-diverse-workforce-matters)
     * [Why Workplace Diversity Matters](https://aofund.org/resource/why-workplace-diversity-matters/)
-  * As a class, students share their reactions to the readings.
+  * As a class, students are encouraged to share their reactions to the readings.
+  * Individually, students record at least one take-away from the readings on a provided page.
  
 
 #### Investigation 3
 
 Question to Ponder: "How can a lack of inclusion/diversity in computing be addressed?"
 
-Step 1  
-  * Building upon the information in Investigation 2, students select one category from a list such as:
+  * Building upon the reading and take-away(s) in Investigation 2, students select one category from a list such as:
     * Educational Policies
     * Advertising Campaign
     * Outreach Project
-    * (Other)  
-  * Students working in pairs, or individually if necessary, to create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, advertisement, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue such as focusing on:
+    * (Other ?)  
+  * Students working in pairs, or individually if necessary, will create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, advertisement, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue such as focusing on:
     * A method to increase inclusion rates of Native students
     * A method to increase inclusion rates of students from Rural locales
     * An advertisement that highlights the contributions in computing by diverse groups/persons
-  * At the completion of the "product" creation, students will share their work with the class.
+  * At the completion of the "product" creation, students will share out with the class.
 
 ### Assessment
 
