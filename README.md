@@ -13,7 +13,7 @@ Primarily focusing on Inclusion within Computing, students will gain an understa
   * The Benefits of Diversity
   * Methods of Broadening Participation  
 
-As a result of these examinations, students will suggest/create methods to address inclusion.
+As a result of these examinations, students will suggest/create methods to broaden inclusion in computing.
 
 ### Learning Activities
 
@@ -137,5 +137,11 @@ The primary assessment will be accomplished through the collection, review and r
 
 ## Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+The overarching goal of this plan is to give students the time and resources to analyze, discuss and question:
+  * The current state of diversity in computing
+  * The benefits of diversity in computing
+  * The impacts of computing, both positive and negative
+The diffent investigations in this plan are interrelated to the extent that students have opportunities to see that nothing happens in isolation.  For example, exploring harmful impacts of computing via facial recognition softwares lets students see that participation by a broader, more diverse group could have questioned and remedied intial assumptions that were made in creating the software.  
+
+
 
