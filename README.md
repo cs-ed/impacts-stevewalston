@@ -72,9 +72,9 @@ Assessment will be accomplished through two methods.  The first is the collectio
 
 ## The Plan, Part 2: The Positive and Negative Impacts of Computing
 
-### Learning Objectives and Acknowlements
+### Learning Objectives and Acknowledgements
 
-Primarily focusing on Positive and Negative Impacts of Computing, students will gain an understanding of these impacts and effects by examining, discussing and evaluating recent news pieces.  Specifially, students will examine:
+Primarily focusing on Positive and Negative Impacts of Computing, students will gain an understanding of these impacts and effects by examining, discussing and evaluating recent news pieces.  Specifically, students will examine:
   * Examples of Negative/Harmful Effects that are results of computing
   * Examples of Positive/Helpful Effects that are results of computing  
 
@@ -142,8 +142,9 @@ The primary assessment will be accomplished through the collection, review and r
 The overarching goal of this plan is to give students the time and resources to analyze, discuss and question:
   * The current state of diversity in computing
   * The benefits of diversity in computing
-  * The impacts of computing, both positive and negative
-The diffent investigations in this plan are interrelated to the extent that students have opportunities to see that nothing happens in isolation.  For example, exploring harmful impacts of computing via facial recognition softwares lets students see that participation by a broader, more diverse group could have questioned and remedied intial assumptions that were made in creating the software.  
+  * The impacts of computing, both positive and negative  
+
+The different investigations in this plan are interrelated to the extent that students have opportunities to see that nothing happens in isolation.  For example, exploring harmful impacts of computing via facial recognition software lets students see that participation by a broader, more diverse group could have questioned and remedied initial assumptions that were made in creating the software.  
 
 
 
