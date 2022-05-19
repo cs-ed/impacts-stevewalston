@@ -33,6 +33,7 @@ Step 2
     * [Women and Minorities in Tech, By the Numbers](https://www.wired.com/story/computer-science-graduates-diversity/)
     * [Why is Computer Science Unpopular Among Women?](https://today.ttu.edu/posts/2021/09/Stories/why-is-computer-science-unpopular-among-women)
     * [Black, Latino People Are Being Left Out of the Tech Workforce](https://www.govtech.com/workforce/black-latino-people-are-being-left-out-of-the-tech-workforce.html)
+    * [More high schools offer computer science courses, but enrollment disparities persist](https://www.k12dive.com/news/report-more-high-schools-offer-computer-science-courses-but-enrollment-di/609890/)
   * After the readings are finished, students are provided with the question prompt, "How accurate were both your individual and the class descriptions of people working in computing and technology?".  Students are given time to write a response on a provided page.
   * As a follow-up, students can be asked or volunteer to share their responses to the question prompt, "What are any surprises from, or what is anything new you gained from the articles?"
   * Students are given time to record their take-aways on the page provided earlier.
@@ -53,7 +54,7 @@ Question to Ponder: "What are the impacts of a lack of inclusion/diversity in co
 
 Question to Ponder: "How can a lack of inclusion/diversity in computing be addressed?"
 
-  * Building upon the reading and take-away(s) in Investigation 2, students select one category from a list such as:
+  * Building upon the reading and take-away(s) in Investigation 2 and the information in Investigation 1, students select one category from a list such as:
     * Educational Policies
     * Advertising Campaign
     * Outreach Project
@@ -61,8 +62,8 @@ Question to Ponder: "How can a lack of inclusion/diversity in computing be addre
   * Students working in pairs, or individually if necessary, will create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, advertisement, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue such as focusing on:
     * A method to increase inclusion rates of Native students
     * A method to increase inclusion rates of students from Rural locales
-    * An advertisement that highlights the contributions in computing by diverse groups/persons
-  * At the completion of the "product" creation, students will share out with the class.
+    * An advertisement that highlights the contributions in computing by one or more diverse groups
+  * At the completion of the "product" creation, students will share with the class.
 
 ### Assessment
 
