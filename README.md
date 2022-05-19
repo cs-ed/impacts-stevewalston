@@ -105,6 +105,7 @@ Exploration: The harmful impacts of computing
     * What the impact was
     * What led to the impact
     * What could have been done to prevent the impact
+    * Whether a lack of diversity had a role in the impact
 
 #### Investigation 2
 
@@ -128,6 +129,7 @@ Exploration: The helpful impacts of computing
   * For each article read, students will record their response, in the style modeled by the teacher, primarily focusing on:
     * What the impact was
     * What led to (facilitated) the impact
+    * Whether inclusion/diversity had a role in the impact
     * What might a next step (or steps) be to extend the helpful impact
 
 ### Assessment
