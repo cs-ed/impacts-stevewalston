@@ -8,7 +8,7 @@ This educational plan is a stand-alone unit to be incorporated into a high schoo
 
 ### Learning Objectives
 
-Primarily focusing on Inclusion within Computing, students will gain an understanding of how different societal influences/actions affect inclusion.  Students will gain the perspective to identify and address inclusion by discussing, questioning, comparing, critiquing information and data.  Specifically, students will examine:
+Primarily focusing on Inclusion within Computing, students will gain an understanding of how different societal influences/actions affect inclusion.  Students will gain the perspective to identify and address inclusion by discussing, questioning, comparing and critiquing information and data.  Specifically, students will examine:
   * Diversity in Computing
   * The Benefits of Diversity
   * Methods of Broadening Participation  
@@ -22,21 +22,21 @@ As a result of these examinations, students will suggest/create methods to addre
 Question to Ponder: "When thinking about people working in computing and technology jobs, who do you think of?"
 
 Step 1  
-  * Students are provided with the question prompt above and will write a response on a provided page.  As needed, students may be given assistance by suggesting that they describe people working in computing and tech by:
-    * what they look like - their likely ethnicity, gender, etc.
-    * what their likely educational background is
-  * Students either share their repsone with the class or if the teacher thinks that anonymity is more appropriate given the classroom and/or school culture, then the responses will be collected with the teacher sharing them.  Writing/organizing the responses on a whiteboard or projected screen will be beneficial for analysis by students.
+  * Students are provided with the question prompt above and will write a response on a provided page* (the reference to 'pages' throughout includes print or digital).  As needed, students may be given assistance by suggesting that they describe people working in computing and tech by:
+    * what they look like, that is their likely ethnicity, gender, age range, etc.
+    * what their likely educational background is, etc.
+  * Students either share their repsone with the class or if the teacher thinks that anonymity is more appropriate given the classroom and/or school culture, then the responses will be collected, with the teacher sharing them anonymously.  Writing/organizing the responses on a whiteboard or projected screen will be beneficial for analysis by students.
   * As a class, students discuss similarities and differences in the responses and identify common themes and/or trends.
 
 Step 2  
-  * Students are asked to read the articles:
+  * Depending on the common themes and/or trends in the student responses in Step 1,students are asked to read a combination of these articles:
     * [Women and Minorities in Tech, By the Numbers](https://www.wired.com/story/computer-science-graduates-diversity/)
     * [Why is Computer Science Unpopular Among Women?](https://today.ttu.edu/posts/2021/09/Stories/why-is-computer-science-unpopular-among-women)
     * [Black, Latino People Are Being Left Out of the Tech Workforce](https://www.govtech.com/workforce/black-latino-people-are-being-left-out-of-the-tech-workforce.html)
     * [More high schools offer computer science courses, but enrollment disparities persist](https://www.k12dive.com/news/report-more-high-schools-offer-computer-science-courses-but-enrollment-di/609890/)
   * After the readings are finished, students are provided with the question prompt, "How accurate were both your individual and the class descriptions of people working in computing and technology?".  Students are given time to write a response on a provided page.
-  * As a follow-up, students can be asked or volunteer to share their responses to the question prompt, "What are any surprises from, or what is anything new you gained from the articles?"
-  * Students are given time to record their take-aways on the page provided earlier.
+  * As a follow-up, students are asked to write their response(s) to the question prompt, "What are any surprises from, or what is anything new you gained from the articles?" on the same page as above.
+  * Students are encouraged to share their take-aways with the class and then are given time to record any additional thoughts.
 
 #### Investigation 2
 
@@ -55,14 +55,14 @@ Question to Ponder: "What are the impacts of a lack of inclusion/diversity in co
 Question to Ponder: "How can a lack of inclusion/diversity in computing be addressed?"
 
   * Building upon the reading and take-away(s) in Investigation 2 and the information in Investigation 1, students select one category from a list such as:
-    * Educational Policies
-    * Advertising Campaigns
-    * Outreach Projects
+    * Educational Policy
+    * Motivational Poster
+    * Outreach Project or Program
     * (Other ?)  
-  * Students working in pairs, or individually if necessary, will create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, advertisement, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue such as focusing on:
-    * A method to increase inclusion rates of Native students
-    * A method to increase inclusion rates of students from Rural locales
-    * An advertisement that highlights the contributions in computing by one or more diverse groups
+  * Students working in pairs, or individually if necessary, will create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, poster, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue of inclusion.  Students are encouraged to think in positive terms, keeping the goal of broadening or celebrating participation as a central theme.   Suggestions to share as possible "products" are:
+    * A program to increase inclusion of Native students
+    * A policy to foster participation of economically disadvantaged or rural students
+    * An poster that highlights the contributions or accomplishments in computing by one or more diverse groups
   * At the completion of the "product" creation, students will share what they have created with the class.
 
 ### Assessment
