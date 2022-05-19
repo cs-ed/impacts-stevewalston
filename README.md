@@ -88,8 +88,18 @@ Exploration: The harmful impacts of computing
 
   * To begin the exploration, all students will read the same article selected by the teacher.  When the reading is completed, the teacher will lead/encourage a class discussion as to what the harmful impact was.  The teacher can then model what a written response could look like.
   * Students will then be assigned a few of these articles to read:
-    * article 1
-    * article 2
+    * [What Is the Environmental Impact of Cryptocurrency?](https://www.pcmag.com/how-to/what-is-the-environmental-impact-of-cryptocurrency)
+    * [Is the internet destroying our attention span?](https://psychminds.com/is-the-internet-destroying-our-attentions-span/)
+    * [Facebook disputes its own research showing harmful effects of Instagram on teens' mental health](https://www.theguardian.com/technology/2021/sep/29/facebook-hearing-latest-children-impact)
+    * [Negative effects of technology: What to know](https://www.medicalnewstoday.com/articles/negative-effects-of-technology?scrlybrkr=a0716d55)
+    * [Amazon's facial recognition wrongly identifies athletes as criminals](https://atlantatribune.com/2019/10/31/amazons-facial-recognition-wrongly-identifies-athletes-as-criminals/)
+    * [Technology in 2050: will it save humanity - or destroy us?](https://www.theguardian.com/technology/2020/jan/03/technology-2050-save-humanity-or-destroy-us)
+    * [How Flawed Data Aggravates Inequality in Credit](https://hai.stanford.edu/news/how-flawed-data-aggravates-inequality-credit)
+    * [UN Report: Time to seize opportunity, tackle challenge of e-waste](https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste)
+    * [Technology Overuse and the Fear of "Digital Dementia": What You Need to Know](https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste)
+    * [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
+    * [How Technology is Warping Your Memory](https://www.huffpost.com/entry/technology-changes-memory_n_4414778)
+    * 
   * For each article read, students will record their response primarily focusing on:
     * What the impact was
     * What led to the impact
