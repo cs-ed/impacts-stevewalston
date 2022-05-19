@@ -120,10 +120,18 @@ Exploration: The helpful impacts of computing
     * [Top 7 ways how Computer Science & Engineering benefits the society](https://blog.spsu.ac.in/top-7-ways-how-computer-science-engineering-benefits-the-society/)
     * [The Human Face of Big Data | The Smallest Heartbeat](https://ca.pbslearningmedia.org/resource/bigdata_stem_babies_health/the-human-face-of-big-data-the-smallest-heartbeat/)
     * [Combining Computer Science and Medicine](https://www.usnews.com/education/blogs/medical-school-admissions-doctor/articles/ways-premeds-combine-computer-science-and-medicine)
+    * [The Growing Role of Technology in the Criminal Justice Field](https://www.purdueglobal.edu/blog/criminal-justice/growing-role-technology-criminal-justice/)
+    * [Do online courses increase access to education?](https://www.pbs.org/newshour/economy/online-courses-increase-access-education)
+    * [Computer Models Of Civilization Offer Routes To Ending Global Warmining](https://www.npr.org/2021/08/14/1027370891/climate-change-solutions-global-warming-computer-models-paris)
+  * For each article read, students will record their response, in the style modeled by the teacher, primarily focusing on:
+    * What the impact was
+    * What led to (facilitated) the impact
+    * What might a next step (or steps) be to extend the helpful impact
 
 ### Assessment
 
-Assessment will be accomplished through the collection, review and return of the students' response pages.  The expectation is that through the successful completion of the actions of these explorations, students will fulfill the learning objectives.
+The primary assessment will be accomplished through the collection, review and return of the students' response pages.  The expectation is that through the successful completion of the actions of these explorations, students will fulfill the learning objectives. An extenstion to these explorations, and a second assessment of student understanding, is to have each student find an addtional example of both harmful and helpful impacts.  Students will submit the titles of the articles, the urls, and their responses to the same prompts as in both explorations.
+
 
 ## Outcomes
 
