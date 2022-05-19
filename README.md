@@ -22,7 +22,7 @@ As a result of these examinations, students will suggest/create methods to addre
 Question to Ponder: "When thinking about people working in computing and technology jobs, who do you think of?"
 
 Step 1  
-  * Students are provided with the question prompt and will write a response on a provided page.  As needed, students may be given assistance by suggesting that they describe people working in computing and tech by:
+  * Students are provided with the question prompt above and will write a response on a provided page.  As needed, students may be given assistance by suggesting that they describe people working in computing and tech by:
     * what they look like - their likely ethnicity, gender, etc.
     * what their likely educational background is
   * Students either share their repsone with the class or if the teacher thinks that anonymity is more appropriate given the classroom and/or school culture, then the responses will be collected with the teacher sharing them.  Writing/organizing the responses on a whiteboard or projected screen will be beneficial for analysis by students.
@@ -39,9 +39,9 @@ Step 2
 Question to Ponder: "What are the impacts of a lack of inclusion/diversity in computing ... or any field for that matter?"
 
 Step 1  
-  * Students read/watch 
-
-
+  * Students read/watch
+    * [the title of this is](https://uncf.org/the-latest/why-creating-a-diverse-workforce-matters)
+    * 
 
 
 #### Investigation 3
@@ -58,11 +58,11 @@ Step 1
     * A method to increase inclusion rates of Native students
     * A method to increase inclusion rates of students from Rural locales
     * An advertisement that highlights the contributions in computing by diverse groups/persons
-  * At the completion of the "product" creation,
+  * At the completion of the "product" creation, students will share their work with the class.
 
 ### Assessment
 
-Assessment will be accomplished through two methods.  The first is the collection, review and return of the students' response pages.  The second is the creation and sharing of the "product" that students created to address inclusion.  The expectation is that through the actions and activities of these investigations, students will fulfill the learning objectives.
+Assessment will be accomplished through two methods.  The first is the collection, review and return of the students' response pages.  The second is the creation and sharing of the "product" that students created to address inclusion.  The expectation is that through the successful completion of the actions and activities of these investigations, students will fulfill the learning objectives.
 
 
 ## The Plan, Part 2: The Positive and Negative Impacts of Computing
