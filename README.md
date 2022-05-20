@@ -67,7 +67,9 @@ Question to Ponder: "How can a lack of inclusion/diversity in computing be addre
 
 ### Assessment
 
-Assessment will be accomplished through two methods.  The first is the collection, review and return of the students' response pages.  The second is the creation and sharing of the "product" that students created to address inclusion.  The expectation is that through the successful completion of the actions and activities of these investigations, students will fulfill the learning objectives.
+Assessment of student understanding will be accomplished in two ways.  The first is the collection, review and return of the students' response pages.  The second is the creation and sharing of the "product" that students created to address inclusion.  The expectation is that through the successful completion of the actions and activities of these investigations, students will fulfill the learning objectives.  
+
+Additionally, students will be provided an opportunity to anonymously offer feedback regarding the activities in this part of the plan.  Requesting feedback about what further questions students have regarding the need for inclusion/diversity will provide opportunities for the teacher to modify content in future classes.
 
 
 ## The Plan, Part 2: The Positive and Negative Impacts of Computing
@@ -134,8 +136,9 @@ Exploration: The helpful impacts of computing
 
 ### Assessment
 
-The primary assessment will be accomplished through the collection, review and return of the students' response pages.  The expectation is that through the successful completion of the actions of these explorations, students will fulfill the learning objectives. An extenstion to these explorations, and a second assessment of student understanding, is to have each student find an addtional example of both harmful and helpful impacts.  Students will submit the titles of the articles, the urls, and their responses to the same prompts as done in both of the explorations.
+The primary assessment of student understanding will be accomplished through the collection, review and return of the students' response pages.  The expectation is that through the successful completion of the actions of these explorations, students will fulfill the learning objectives. An extenstion to these explorations, and a second assessment of student understanding, is to have each student find an addtional example of both harmful and helpful impacts.  Students will submit the titles of the articles, the urls, and their responses to the same prompts as done in both of the explorations.  
 
+Additionally, students will be provided an opportunity to anonymously offer feedback regarding the explorations in this part of the plan.  Requesting feedback about what further questions students have in regards to identifying and analyzing instances of harmful and helpful impacts.
 
 ## Outcomes
 
@@ -144,7 +147,9 @@ The overarching goal of this plan is to give students the time and resources to 
   * The benefits of diversity in computing
   * The impacts of computing, both positive and negative  
 
-The different investigations in this plan are interrelated to the extent that students have opportunities to see that nothing happens in isolation.  For example, exploring harmful impacts of computing via facial recognition software lets students see that participation by a broader, more diverse group could have questioned and remedied initial assumptions that were made in creating the software.  
+The different investigations in this plan are interrelated to the extent that students have opportunities to see that nothing happens in isolation.  For example, exploring harmful impacts of computing via facial recognition software lets students see that participation by a broader, more diverse group could have questioned and rectified initial assumptions that were made in creating the software.  
+
+Overall, students will gain experience in thinking critically about computing as one integrated part in a dynamic society, rather than an insulted field.  Students will be able to address future challenges and plan for future opportunities from more of a comprehensive perspective.
 
 
 
