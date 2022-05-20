@@ -143,13 +143,13 @@ Additionally, students will be provided an opportunity to anonymously offer feed
 
 ## Outcomes
 
-The overarching goal of this plan is to give students the time and resources to analyze, discuss and question:
+Throughout this plan, there is the undercurrent of time.  Students need, and are therefore given, time to discuss, listen, question, analyze and reflect.  With this time and the provided resources, students will be able to make meaning of and gain a better understanding of:
   * The current state of diversity in computing
   * The benefits of diversity in computing
   * The impacts of computing, both positive and negative  
 
-The different investigations in this plan are interrelated to the extent that students have opportunities to see that nothing happens in isolation.  For example, exploring harmful impacts of computing via facial recognition software lets students see that participation by a broader, more diverse group could have questioned and rectified initial assumptions that were made in creating the software.  
+The different investigations in this plan are interrelated and overlap in potentially far reaching ways.  Students have the opportunities to see that nothing happens in isolation.  For example, exploring harmful impacts of computing via facial recognition software lets students see that participation by a broader, more diverse group could have questioned and rectified initial assumptions that were made in creating the software.  
 
-Overall, students will gain experience in thinking critically about computing as one integrated part in a dynamic society, rather than an insulted field.  Students will be able to address future challenges and plan for future opportunities from more of a comprehensive perspective.
+Overall, students will gain experience in thinking critically about computing as one integrated part in a dynamic society, rather than as an insulted or isolated field.  Students will be able take this experience and learning to address future challenges and plan for future opportunities from a more comprehensive perspective.
 
 
