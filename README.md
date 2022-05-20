@@ -105,9 +105,10 @@ Exploration: The harmful impacts of computing
     * [How Technology is Warping Your Memory](https://www.huffpost.com/entry/technology-changes-memory_n_4414778)
   * For each article read, students will record their response, in the style modeled by the teacher, primarily focusing on:
     * What the impact was
-    * What led to the impact
-    * What could have been done to prevent the impact
-    * Whether a lack of diversity had a role in the impact
+    * What conditions, actions, etc. led to the impact
+    * What could have been done to prevent or lessen the impact
+    * What role did a lack of inclusion/diversity have in the impact
+
 
 #### Investigation 2
 
