@@ -25,11 +25,11 @@ Step 1
   * Students are provided with the question prompt above and will write a response on a provided page* (the reference to 'pages' throughout includes print or digital).  As needed, students may be given assistance by suggesting that they describe people working in computing and tech by:
     * what they look like, that is their likely ethnicity, gender, age range, etc.
     * what their likely educational background is, etc.
-  * Students either share their repsone with the class or if the teacher thinks that anonymity is more appropriate given the classroom and/or school culture, then the responses will be collected, with the teacher sharing them anonymously.  Writing/organizing the responses on a whiteboard or projected screen will be beneficial for analysis by students.
+  * Students either share their response with the class or if the teacher thinks that anonymity is more appropriate given the classroom and/or school culture, then the responses will be collected, with the teacher sharing them anonymously.  Writing/organizing the responses on a whiteboard or projected screen will be beneficial for analysis by students.
   * As a class, students discuss similarities and differences in the responses and identify common themes and/or trends.
 
 Step 2  
-  * Depending on the common themes and/or trends in the student responses in Step 1,students are asked to read a combination of these articles:
+  * Depending on the common themes and/or trends in the student responses in Step 1, students are asked to read a combination of these articles:
     * [Women and Minorities in Tech, By the Numbers](https://www.wired.com/story/computer-science-graduates-diversity/)
     * [Why is Computer Science Unpopular Among Women?](https://today.ttu.edu/posts/2021/09/Stories/why-is-computer-science-unpopular-among-women)
     * [Black, Latino People Are Being Left Out of the Tech Workforce](https://www.govtech.com/workforce/black-latino-people-are-being-left-out-of-the-tech-workforce.html)
@@ -58,11 +58,11 @@ Question to Ponder: "How can a lack of inclusion/diversity in computing be addre
     * Educational Policy
     * Motivational Poster
     * Outreach Project or Program
-    * (Other ?)  
-  * Students working in pairs, or individually if necessary, will create a "product" that addresses inclusion/diverstiy.  It is not realistic that a single policy, poster, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue of inclusion.  Students are encouraged to think in positive terms, keeping the goal of broadening or celebrating participation as a central theme.   Suggestions to share as possible "products" are:
+    * (Other?)  
+  * Students working in pairs, or individually if necessary, will create a "product" that addresses inclusion/diversity.  It is not realistic that a single policy, poster, etc. can be the comprehensive solution.  Rather, students will be directed to focus on one aspect of the larger issue of inclusion.  Students are encouraged to think in positive terms, keeping the goal of broadening or celebrating participation as a central theme.   Suggestions to share as possible "products" are:
     * A program to increase inclusion of Native students
     * A policy to foster participation of economically disadvantaged or rural students
-    * An poster that highlights the contributions or accomplishments in computing by one or more diverse groups
+    * A poster that highlights the contributions or accomplishments in computing by one or more diverse groups
   * At the completion of the "product" creation, students will share what they have created with the class.
 
 ### Assessment
@@ -136,9 +136,9 @@ Exploration: The helpful impacts of computing
 
 ### Assessment
 
-The primary assessment of student understanding will be accomplished through the collection, review and return of the students' response pages.  The expectation is that through the successful completion of the actions of these explorations, students will fulfill the learning objectives. An extenstion to these explorations, and a second assessment of student understanding, is to have each student find an addtional example of both harmful and helpful impacts.  Students will submit the titles of the articles, the urls, and their responses to the same prompts as done in both of the explorations.  
+The primary assessment of student understanding will be accomplished through the collection, review and return of the students' response pages.  The expectation is that through the successful completion of the actions of these explorations, students will fulfill the learning objectives. An extension to these explorations, and a second assessment of student understanding, is to have each student find an additional example of both a harmful and a helpful impact.  Students will submit the titles of the articles, the URLs, and their responses to the same prompts as done in both of the explorations.  
 
-Additionally, students will be provided an opportunity to anonymously offer feedback regarding the explorations in this part of the plan.  Requesting feedback about what further questions students have in regards to identifying and analyzing instances of harmful and helpful impacts.
+Additionally, students will be provided an opportunity to anonymously offer feedback regarding the explorations in this part of the plan.  Requesting feedback about what further questions students have in regards to identifying and analyzing instances of harmful and helpful impacts will provide opportunities for the teacher to modify the content and lesson structure in the future.
 
 ## Outcomes
 
@@ -150,6 +150,5 @@ The overarching goal of this plan is to give students the time and resources to 
 The different investigations in this plan are interrelated to the extent that students have opportunities to see that nothing happens in isolation.  For example, exploring harmful impacts of computing via facial recognition software lets students see that participation by a broader, more diverse group could have questioned and rectified initial assumptions that were made in creating the software.  
 
 Overall, students will gain experience in thinking critically about computing as one integrated part in a dynamic society, rather than an insulted field.  Students will be able to address future challenges and plan for future opportunities from more of a comprehensive perspective.
-
 
 
