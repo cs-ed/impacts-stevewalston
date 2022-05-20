@@ -133,7 +133,7 @@ Exploration: The helpful impacts of computing
     * What the impact was
     * What led to (facilitated) the impact
     * Whether inclusion/diversity had a role in the impact
-    * What might a next step (or steps) be to extend the helpful impact
+    * What might a next step be to extend the helpful impact
 
 ### Assessment
 
