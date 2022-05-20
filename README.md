@@ -124,7 +124,7 @@ Exploration: The helpful impacts of computing
     * [DeepMind Has Trained an AI to Control Nuclear Fusion](https://www.wired.com/story/deepmind-ai-nuclear-fusion/)
     * [How AI Could Help Screen for Autism in Children](https://viterbischool.usc.edu/news/2021/11/how-ai-could-help-screen-for-autism-in-children/)
     * [Top 7 ways how Computer Science & Engineering benefits the society](https://blog.spsu.ac.in/top-7-ways-how-computer-science-engineering-benefits-the-society/)
-    * [The Human Face of Big Data | The Smallest Heartbeat](https://ca.pbslearningmedia.org/resource/bigdata_stem_babies_health/the-human-face-of-big-data-the-smallest-heartbeat/)
+    * [The Human Face of Big Data: The Smallest Heartbeat](https://ca.pbslearningmedia.org/resource/bigdata_stem_babies_health/the-human-face-of-big-data-the-smallest-heartbeat/)
     * [Combining Computer Science and Medicine](https://www.usnews.com/education/blogs/medical-school-admissions-doctor/articles/ways-premeds-combine-computer-science-and-medicine)
     * [The Growing Role of Technology in the Criminal Justice Field](https://www.purdueglobal.edu/blog/criminal-justice/growing-role-technology-criminal-justice/)
     * [Do online courses increase access to education?](https://www.pbs.org/newshour/economy/online-courses-increase-access-education)
